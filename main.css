@@ -202,3 +202,12 @@ footer {
     color: #4caf50;
 }
 
+
+/* Improve navbar toggler (hamburger) visibility */
+.navbar .navbar-toggler {
+    border-color: rgba(255,255,255,0.15);
+}
+.navbar .navbar-toggler-icon {
+    filter: invert(1);
+}
+
